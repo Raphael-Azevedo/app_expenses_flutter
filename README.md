@@ -10,6 +10,7 @@ Neste repositório encontra-se a criação de um projeto em flutter que tem como
 ## Tecnologias usadas
 
 - Flutter
+- dart
 
 ## Descrição
 
